@@ -31,19 +31,19 @@ Le dataset contient les colonnes suivantes :
 
 ---
 
-## 📊 Exemples de résultats
-### Quantité vendue par produit
+## 📊 Visualisations
+### 🛒 Quantité vendue par produitt
 ![Quantité par produit](images/produits_quantite.png)
 
-### Chiffre d'affaire par produit
+### 💰 Chiffre d'affaires par produit
 ![Chiffre d'affaire](images/produits_total.png)
 
-### Vente par mois 
+### 📅 Ventes par mois 
 ![Vente par mois](images/ventes_mois.png)
 
 ## Exemple de résultats
-- Produit le plus vendu : (cafe       1009)
-- Mois le plus rentable : (aout         680687)
+- Produit le plus vendu : (lait       1173)
+- Mois le plus rentable : (ajuillet      776987)
 
 
 ---
@@ -52,4 +52,4 @@ Le dataset contient les colonnes suivantes :
 
 1. Cloner le projet :
 ```bash
-git clone https://github.com/ton_nom/analyse-ventes-magasin.git
+git clone https://github.com/junisselassock3-cell/analyse-vente-magasin.git
